@@ -1,3 +1,8 @@
 const m = 'mercado pago'
+<<<<<<< HEAD
 const d = 'pagamedevedornto'
-console.log(m, d)
+const p = 'pagamento'
+console.log(m, p, d)
+>>>>>>> mercado-pag
+
+
